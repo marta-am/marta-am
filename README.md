@@ -2,7 +2,7 @@
 <img align="right" width="300" alt="synthwave computer animated" src="https://giffiles.alphacoders.com/363/36302.gif">
 <p> 🌱 I’m currently learning Frontend Web Development.</p> 
 <p> 👀 I’m interested in Web Development and Videogames.</p>
-<p> 📫 Contact me: **martamaks@hotmail.com**</p>
+<p> 📫 Contact me: martamaks@hotmail.com</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
