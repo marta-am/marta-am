@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Marta!</h1>
 <img align="right" width="300" alt="synthwave computer animated" src="https://giffiles.alphacoders.com/363/36302.gif">
-<p> 🌱 I’m currently learning Frontend Web Development.</p> 
+<p> 🌱 I’m currently learning general programming and technology tehcnician specialisation.</p> 
 <p> 👀 I’m interested in Web Development and Videogames.</p>
 <p> 📫 Contact me: martamaks@hotmail.com</p>
 
