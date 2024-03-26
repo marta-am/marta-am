@@ -3,10 +3,10 @@
 <p> 🌱 I’m currently learning general programming and information systems.</p> 
 <p> 👀 I’m interested in Web and Application Development and Videogames.</p>
 <p> 📫 Contact me: martamdev@protonmail.com</p>
-
+<br>
 <p>Current projects:</p>
-<p>Gira with <a href="https://github.com/devcaves">DevCaves</a></p> @ 
-
+<p>Gira with <a href="https://github.com/devcaves">DevCaves</a></p>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
