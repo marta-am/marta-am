@@ -13,5 +13,5 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><a>
   <a href="https://www.php.net/manual/en/intro-whatis.php" target="_blank" rel="noreferrer"> <img src="https://www.pngall.com/wp-content/uploads/2016/05/PHP-Logo-PNG.png" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.python.org/" target="blank" rel="noreferrer"><img src="https://www.pngitem.com/pimgs/m/31-312303_python-python-icon-png-transparent-png.png" alt="python" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="blank" rel="noreferrer"><img src="https://pluspng.com/img-png/python-logo-png-python-logo-png-img-565-565-free-transparent-python-png-900x580.jpg" alt="python" width="40" height="40"/></a>
 </p>
